@@ -1,0 +1,9 @@
+- git:
+    local-name: genjava
+    uri: https://github.com/rosjava/genjava
+- git:
+    local-name: rosjava_bootstrap
+    uri: https://github.com/rosjava/rosjava_bootstrap
+- git:
+    local-name: rosjava_build_tools
+    uri: https://github.com/rosjava/rosjava_build_tools
