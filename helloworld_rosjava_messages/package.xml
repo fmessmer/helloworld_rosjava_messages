@@ -14,5 +14,6 @@
   <depend>rosjava_bootstrap</depend>
   <depend>genjava</depend>
   <depend>helloworld_msgs</depend>
+  <depend>sub_msgs</depend>
 
 </package>
