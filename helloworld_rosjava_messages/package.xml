@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>helloworld_rosjava_messages</name>
+  <version>0.0.0</version>
+  <description>The helloworld_rosjava_messages package</description>
+
+  <maintainer email="felixmessmer@gmail.com">Felix Messmer</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rosjava_build_tools</depend>
+  <depend>rosjava_bootstrap</depend>
+  <depend>genjava</depend>
+  <depend>helloworld_msgs</depend>
+
+</package>
